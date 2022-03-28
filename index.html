@@ -18,18 +18,41 @@
       rel="stylesheet"
       href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
     />
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css"
+    />
   </head>
   <body>
     <div id="app"></div>
+    <!-- Docsify v4 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
     <script>
       window.$docsify = {
         name: "ZimTang的知识库",
         repo: "",
         coverpage: true,
+        search: "auto", // 默认值
         loadNavbar: true,
+        repo: "https://github.com/ZimTang/ZimTang.github.io",
+        onlyCover: false,
       };
+      const gitalk = new Gitalk({
+        clientID: "fa92cd236c00a60097db",
+        clientSecret: "0fe4d8dbc336f6a69200f8d5e53f53f678603ae4",
+        repo: "ZimTang.github.io",
+        owner: "ZimTang",
+        admin: ["ZimTang"],
+        // facebook-like distraction free mode
+        distractionFreeMode: false,
+        id: decodeURI(window.location.pathname),
+      });
     </script>
-    <!-- Docsify v4 -->
-    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   </body>
 </html>

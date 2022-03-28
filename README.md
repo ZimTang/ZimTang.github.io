@@ -42,6 +42,7 @@
 ### typescript
 
 - [一份不可多得的 TS 学习指南（1.8W字）](https://juejin.cn/post/6872111128135073806)
+- [「1.9W字总结」一份通俗易懂的 TS 教程，入门 + 实战！](https://mp.weixin.qq.com/s?__biz=MzI4OTY2MzE0OA==&mid=2247498388&idx=1&sn=5f2cdbfa17df4dd9edae070629749dfe&chksm=ec290b57db5e824126021e93a8ce56c645ff037eb84f1a871c7ba9ecaa71da1f59a33b153d91&mpshare=1&scene=23&srcid=0325wI9k4p72REkB5CokyKUs&sharer_sharetime=1648190059928&sharer_shareid=e3b1139d9b8ed28cb96f8ff86a792fe1#rd)
 
 ### vue
 
