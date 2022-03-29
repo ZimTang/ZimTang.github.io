@@ -68,10 +68,13 @@
 
 ## **实战开发**
 
-### 工具使用
+### 前端工程化
 
 - [管理项目的代码规范](./实战开发/管理项目的代码规范.md)
 - [git基本使用](./实战开发/git基本使用.md)
+- [为什么现在我更推荐 pnpm 而不是 npm/yarn?](https://juejin.cn/post/6932046455733485575)
+- [什么是Monorepo](https://www.perforce.com/blog/vcs/what-monorepo)
+- [了解前端 Monorepo - Lerna 的使用](https://juejin.cn/post/7064118504982577160)
 
 ### 开发技巧
 
