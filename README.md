@@ -60,6 +60,8 @@
 ### react
 
 - [react 官方文档](https://reactjs.org/)
+- [setState的理解](./前端进阶/react/setState.md)
+- [高阶组件的理解](./前端进阶/react/HOC.md)
 
 ### 构建工具
 
