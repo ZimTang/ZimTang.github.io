@@ -56,10 +56,13 @@
 - [vuex 在 composition api 中使用映射获取多个 state 以及 getter](./前端进阶/vue/vuex-map.md)
 - [historyApiFallback 使用](./前端进阶/vue/historyApiFallback.md)
 - [Object.defineProperty 和 Proxy](https://juejin.cn/post/7069397770766909476)
+- [vue面试题（个人总结）](./面试合集/Vue面试题个人总结)
 
 ### react
 
 - [react 官方文档](https://reactjs.org/)
+- [setState的理解](./前端进阶/react/setState.md)
+- [高阶组件的理解](./前端进阶/react/HOC.md)
 
 ### 构建工具
 
