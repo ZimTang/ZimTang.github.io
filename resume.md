@@ -14,34 +14,34 @@
 1. 计算机设计大赛市赛三等奖
 1. 校级优秀共青团员荣誉称号
 1. 校级三等奖学金
-1. 大学英语CET4证书
+1. 大学英语 CET4 证书
 
 ## 专业技能
 
-1. 掌握HTML5、能够使用HTML5标签编写语义化的页面
-1. 掌握CSS3，例如文档流、盒模型、flex布局定位等
-1. 掌握JavaScript和ES6+，例如防抖节流、原型、事件循环、Promise、this、箭头函数等
-1. 熟悉Vue，对Vue有一定理解，如双向绑定原理、虚拟dom等，了解部分Vue源码
-1. 熟悉http协议、掌握基本计算机网络知识
-1. 了解Node.js，如Node.js中的事件循环、内置模块等概念，对主流node框架有一定了解
-1. 了解React，了解webpack打包工具的基本配置，了解TypeScript的基本使用
+1. 掌握 HTML5、能够使用 HTML5 标签编写语义化的页面
+1. 掌握 CSS3，例如文档流、盒模型、flex 布局定位等
+1. 掌握 JavaScript 和 ES6+，例如防抖节流、原型、事件循环、Promise、this、箭头函数等
+1. 熟悉 Vue，对 Vue 有一定理解，如双向绑定原理、虚拟 dom 等，了解部分 Vue 源码
+1. 熟悉 http 协议、掌握基本计算机网络知识
+1. 了解 Node.js，如 Node.js 中的事件循环、内置模块等概念，对主流 node 框架有一定了解
+1. 了解 React，了解 webpack 打包工具的基本配置，了解 TypeScript 的基本使用
 
 ## 项目经验
 
 ### 红丝带小卫士（小程序 + 后端 + 后台管理）
 
 - 描述：基于 uniapp + Koa + React 独立开发的宣传艾滋病预防与科普的微信小程序
-- Github地址：<https://github.com/ZimTang/aids-protection-node>
+- Github 地址：<https://github.com/ZimTang/aids-protection-node>
 - **技术栈**：uniapp、Koa、TypeScript、Sequelize、MySQL、React
 - 小程序端：二次封装网络请求，实现前后端联调，通过组件化思想，封装自定义组件，提高开发效率
-- 后端：自定义中间件实现权限控制和文件上传等功能。使用JWT认证实现用户认证，使用CORS解决跨域问题。实现MVC分层架构，分离业务逻辑
+- 后端：自定义中间件实现权限控制和文件上传等功能。使用 JWT 认证实现用户认证，使用 CORS 解决跨域问题。实现 MVC 分层架构，分离业务逻辑
 
-### 鑫玉建设后台管理系统（小程序端 + PC端）
+### 鑫玉建设后台管理系统（小程序端 + PC 端）
 
 - 描述：基于 uniapp + Vue 开发的企业后台管理系统
 - **技术栈**：uniapp、Vue2
 - 小程序端：对 uview 部分组件进行二次封装，二次封装 uni.request，提高开发效率
-- PC端：二次开发项目，实现客户需求
+- PC 端：二次开发项目，实现客户需求
 
 ## 自我评价
 
